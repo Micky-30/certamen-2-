@@ -1,5 +1,6 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
 }
 
 #principal{
@@ -9,35 +10,36 @@ body{
     padding: 20px;
     margin-top: 50px;
     text-align: center;
-    background-color: rgb(80, 204, 64);
+    background-color: rgb(64, 136, 204);
     height: 300px;
-    /* Aquí puedes escribir tu comentario */
+   
 }
-#navbarnavbar-darkbg-primary{
-    height: auto;
-}
+
 #carrucel{
+    border: 2px solid black;
+    width: 100%;
 
 
 
 
 }
 nav{
-    border: 2px solid black;
+    border: 0px solid black;
     width: 80%;
     margin: 0px auto;
     padding: 20px;
     text-align: center;
-    background-color: #110ed8;
+    background-color: #007bff;
     height: 40px;
 }
+
 #contenido{
     border: 2px solid black;
     width: 80%;
     margin: 0px auto ;
     padding: 20px;
     text-align: center;
-    background-color: #a13737;
+    background-color: #177683;
     height: 800px;
 }
 footer{
@@ -46,11 +48,11 @@ footer{
     margin: 0px auto;
     padding: 20px;
     text-align: center;
-    background-color: #292828;
+    background-color: #059faa;
     height: 100px;
 }
 h1{
-    color: white;
+    color: rgb(175, 236, 8);
     font-size: 35px;
 }
 
@@ -75,7 +77,7 @@ h1{
 }
 
 article{
-    border: 1px solid black;
+    border: 0px solid black;
     width: 80%;
     margin: 0px auto;
     padding: 60px;
@@ -112,7 +114,20 @@ label{
 }
 .contenedor{
     width: 90%;
-    background-color:#ffffff;
+    background-color:#1277d4;
     border: 1px solid #292F80;
     margin: 0 auto;
 }
+.navbarnavbar-darkbg-primary{
+    border: 2px solid black;
+    width: 80%;
+    margin: 0px auto;
+    padding: 20px;
+    text-align: center;
+    
+    background-color: #007bff;
+    height: 90px;
+    }
+
+
+    
